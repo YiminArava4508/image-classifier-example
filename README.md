@@ -80,6 +80,13 @@ Import the packages for keras from tensorflow
 1. Open the json file with read access, print to check if it deserialized correctly
 
 ### Backend
+#### Flask API
+1. Learn the basics of Flask API
+2. Create a function to only allow jpeg, png, jpg file types as image inputs
+3. Create responses to different request file (no file in request, no image in request, and correct request)
+4. Deserialize the model
+5. Implement the model in the correct response handler API
+6. Create a function to properly determine the authenticity of the image based on the result of the model
 
 ### Frontend
 
